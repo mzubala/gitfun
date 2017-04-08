@@ -1,7 +1,7 @@
 class Main {
 
 	public static void main(String[] argv) {
-		System.out.println("Hello Git!!!!!");
+		System.out.println("Hello GIT!!!!!");
 	}
 
 }
