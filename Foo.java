@@ -1,7 +1,11 @@
 public class Foo {
 
     void bar() {
-        System.out.println("something else");
+	System.out.println("Hey hey!!!!")
+    }
+
+    void bar2() {
+
     }
 
 }
