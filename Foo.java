@@ -9,7 +9,7 @@ public class Foo {
     }
 
     void bar4() {
-        System.out.println("bar 500");
+        System.out.println("bar 5");
     }
 
     void bar3() {
