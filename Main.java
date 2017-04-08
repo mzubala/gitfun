@@ -1,8 +1,8 @@
 class Main {
 
 	public static void main(String[] argv) {
-		System.out.println("Hello GIT!!!!!");
-		System.out.println("Oh yeah oh yeah tra lala la");
+		System.out.println("Hello GIT");
+		System.out.println("Tra lala la");
 	}
 
 }
