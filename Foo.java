@@ -8,4 +8,8 @@ public class Foo {
 
     }
 
+    void bar3() {
+        System.out.println("aj aj aj");
+    }
+
 }
